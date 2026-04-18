@@ -1,2 +1,10 @@
 
 /* Your CSS Code here. */
+.container{
+	background-color:blanchedalmond;
+	border-radius:10px;
+	display:flex;
+	flex-direction:column;
+	
+	
+}
